@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers! 
 
-> https://jayaemekar.github.io
+> https://yogeshwatamwaar.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/jayaemekar/jayaemekar.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/jayaemekar/jayaemekar.github.io)
@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-  <a href="https://jayaemekar.github.io" target="_blank"><img src="examples/preview.gif">
+  <a href="https://yogeshwatamwaar.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
